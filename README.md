@@ -292,9 +292,9 @@ This repository contains a **preprint**. It has not yet undergone formal peer re
 ## Contact
 
 **SAMUELSON G**
-gsamuelsonguna@gmail.com
-https://orcid.org/0009-0005-8744-8178
-https://doi.org/10.13140/RG.2.2.21904.16643
+**Email:** gsamuelsonguna@gmail.com
+**ORCID:** https://orcid.org/0009-0005-8744-8178
+**DOI:** https://doi.org/10.13140/RG.2.2.21904.16643
 
 ---
 
